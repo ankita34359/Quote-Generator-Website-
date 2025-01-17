@@ -57,6 +57,13 @@ Here's a walkthrough of how the Quote Generator works: (Click on the image to wa
 
 [![Watch the demo](https://github.com/ankita34359/Quote-Generator-Website/blob/main/i1.png)](https://youtu.be/7MTYKA81-Fs?feature=shared)
 
+## Demo1
+
+Check out the live demo of the Quote Generator Website:
+
+[Live Demo](https://ankita34359.github.io/Quote-Generator-Website/)
+
+
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
