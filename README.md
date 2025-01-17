@@ -41,3 +41,16 @@ Click the "New Quote" button to fetch and display a new random quote.
 5.) Share on X:
 
 Click the "Tweet" button to share the current quote on your X profile.
+
+## Project Structure
+
+```
+Quote-Generator-Website/
+├── index.html      # Main HTML file
+├── style.css       # CSS styling
+└── script.js       # JavaScript functionality
+```
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
