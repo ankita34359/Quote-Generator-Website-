@@ -53,7 +53,7 @@ Quote-Generator-Website/
 
 ## Demo
 
-Here's a walkthrough of how the Quote Generator works:
+Here's a walkthrough of how the Quote Generator works: (If you want to see the video then click on the below image.)
 
 [![Watch the demo](i1.png)](https://youtu.be/7MTYKA81-Fs?feature=shared)
 
