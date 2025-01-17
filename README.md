@@ -17,3 +17,11 @@ A dynamic Quote Generator website that fetches random quotes via API and allows 
 - **JavaScript:** For fetching quotes from the API and handling user interactions.
 
 - **Font Awesome:** For incorporating icons, such as the "X" icon in the Tweet button
+
+## How to Use
+
+Clone the Repository: 
+
+```
+git clone https://github.com/ankita34359/Quote-Generator-Website.git
+```
