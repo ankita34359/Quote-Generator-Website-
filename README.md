@@ -51,12 +51,18 @@ Quote-Generator-Website/
 └── script.js       # JavaScript functionality
 ```
 
+## Demo
+
+Here's a walkthrough of how the Quote Generator works:
+
+[![Watch the demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/7MTYKA81-Fs?feature=shared)
+
+
 ## Live Demo
 
 Check out the live demo of the Quote Generator Website:  
 
 [Live Demo](https://ankita34359.github.io/Quote-Generator-Website/)
-
 
 ## License
 
