@@ -51,6 +51,13 @@ Quote-Generator-Website/
 └── script.js       # JavaScript functionality
 ```
 
+## Demo
+
+Here's a walkthrough of how the Quote Generator works:
+
+[![Watch the demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+
+
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
