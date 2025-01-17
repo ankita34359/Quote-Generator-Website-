@@ -57,13 +57,18 @@ Here's a walkthrough of how the Quote Generator works: (Click on the image to wa
 
 [![Watch the demo](https://github.com/ankita34359/Quote-Generator-Website/blob/main/i1.png)](https://youtu.be/7MTYKA81-Fs?feature=shared)
 
-## Demo
+## Demo1
 
-Here’s a preview of the Quote Generator Website:
+### Live Demo
 
-![Quote Generator Demo](assets/quote-demo.gif)  <!-- Or a screenshot -->
+Check out the live demo of the Quote Generator Website:  
+[Live Demo](https://ankita34359.github.io/Quote-Generator-Website/)
 
-Check out the live demo here: [Live Demo](https://ankita34359.github.io/Quote-Generator-Website/)
+### Video Demo
+
+Watch the full demo of the Quote Generator Website:
+
+[![Watch the Demo](https://img.youtube.com/vi/7MTYKA81-Fs/0.jpg)](https://youtu.be/7MTYKA81-Fs)
 
 ## License
 
