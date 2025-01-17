@@ -57,6 +57,9 @@ Here's a walkthrough of how the Quote Generator works: (Click on the image to wa
 
 [![Watch the demo](https://github.com/ankita34359/Quote-Generator-Website/blob/main/i1.png)](https://youtu.be/7MTYKA81-Fs?feature=shared)
 
+<video src="Quote Generator Website Video.mp4" controls>
+    Your browser does not support the video tag.
+</video>
 
 ## License
 
