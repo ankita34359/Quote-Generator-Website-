@@ -25,3 +25,13 @@ Clone the Repository:
 ```
 git clone https://github.com/ankita34359/Quote-Generator-Website.git
 ```
+
+Navigate to the Project Directory:
+```
+cd Quote-Generator-Website
+```
+
+Open index.html in Your Preferred Web Browser:
+```
+open index.html
+```
