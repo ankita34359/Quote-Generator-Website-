@@ -20,18 +20,24 @@ A dynamic Quote Generator website that fetches random quotes via API and allows 
 
 ## How to Use
 
-Clone the Repository: 
-
+1.) Clone the Repository: 
 ```
 git clone https://github.com/ankita34359/Quote-Generator-Website.git
 ```
 
-Navigate to the Project Directory:
+2.) Navigate to the Project Directory:
 ```
 cd Quote-Generator-Website
 ```
 
-Open index.html in Your Preferred Web Browser:
+3.) Open index.html in Your Preferred Web Browser:
 ```
 open index.html
 ```
+4.) Generate a New Quote:
+
+Click the "New Quote" button to fetch and display a new random quote.
+
+5.) Share on X:
+
+Click the "Tweet" button to share the current quote on your X profile.
