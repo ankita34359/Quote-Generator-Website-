@@ -55,7 +55,7 @@ Quote-Generator-Website/
 
 Here's a walkthrough of how the Quote Generator works:
 
-[![Watch the demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/7MTYKA81-Fs?feature=shared)
+[![Watch the demo](i1.png)](https://youtu.be/7MTYKA81-Fs?feature=shared)
 
 
 ## Live Demo
