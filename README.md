@@ -55,12 +55,6 @@ Quote-Generator-Website/
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## Acknowledgements
-
-**Quote API:** The application utilizes the Quotes Free API to fetch random quotes.
-
-**Font Awesome:** Icons are provided by Font Awesome.
-
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
