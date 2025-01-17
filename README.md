@@ -78,4 +78,4 @@ If you have any questions, suggestions, or would like to discuss JavaScript conc
 - GitHub: https://github.com/ankita34359
 - Linkedin: https://www.linkedin.com/in/ankita-gupta-34359abcd/
 
-Feel free to star ⭐ this repository if you find it helpful, and join me on this exciting learning journey!
+Feel free to star ⭐ this repository if you find it helpful.
