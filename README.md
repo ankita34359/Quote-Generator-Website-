@@ -73,7 +73,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
  
 ## Contact
-If you have any questions, suggestions, or would like to discuss JavaScript concepts, feel free to reach out:
+If you have any questions, suggestions, or would like to discuss anything, feel free to reach out:
 
 - GitHub: https://github.com/ankita34359
 - Linkedin: https://www.linkedin.com/in/ankita-gupta-34359abcd/
