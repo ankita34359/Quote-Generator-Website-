@@ -2,7 +2,7 @@
 
 A dynamic Quote Generator website that fetches random quotes via API and allows users to directly share their favorite quotes on X (formerly Twitter) and Linkedin with a single click.
 
-## Features
+## Features 
 
 - **Random Quote Generation:** Fetches and displays random quotes from a reliable API, providing users with a diverse range of inspirational and thought-provoking quotes.
 
